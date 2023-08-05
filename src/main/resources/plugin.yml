@@ -1,4 +1,4 @@
-name: MumbleLink Client
+name: MumbleLinkClient
 version: 1.0
 main: fr.eliottb.mlc.MumbleLinkClient
 prefix: MLC
