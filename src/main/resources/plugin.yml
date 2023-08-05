@@ -1,0 +1,10 @@
+name: MumbleLink Client
+version: 1.0
+main: fr.eliottb.mlc.MumbleLinkClient
+prefix: MLC
+description: A client for MumbleLink Core.
+website: https://discord.ezalys.fr
+commands:
+  mumble:
+    description: Commande principale du plugin Mumble Link.
+    usage: /<command> <nolink/broadcastnolink/mute/unmute/move>

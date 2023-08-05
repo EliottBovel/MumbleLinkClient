@@ -1,0 +1,7 @@
+automatic-move-spec: true
+default-mumble-name: "Serveur Mumble Link"
+api-key: "ENTER YOUR API-KEY HERE"
+join-link: "http://example.org/?server={server}&user={user}"
+socket:
+  ip: "127.0.0.1"
+  port: 751
