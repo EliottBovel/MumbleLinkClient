@@ -5,7 +5,7 @@ En cas de soucis lors de l'installation ou de l'utilisation, vous pouvez m'envoy
 
 ## Installation
 1. Installez le [MumbleLink Core](https://github.com/EliottBovel/MumbleLinkCore).
-2. [Téléchargez](https://github.com/EliottBovel/MumbleLinkClient/releases/tag/Plugin) et placez le plugin dans votre dossiers /plugins .
+2. [Téléchargez](https://github.com/EliottBovel/MumbleLinkClient/releases) et placez le plugin dans votre dossiers /plugins .
 3.  Allumez puis éteignez votre serveur Minecraft.
 4. Modifiez le fichier de configuration dans /plugins/MumbleLinkClient/config.yml
 
